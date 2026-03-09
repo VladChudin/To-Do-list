@@ -227,6 +227,7 @@ list.addEventListener('click', (e) => {
 
     input.focus();
 
+
     // eslint-disable-next-line no-shadow
     input.addEventListener('keydown', (e) => {
       if (e.key === 'Enter') {
