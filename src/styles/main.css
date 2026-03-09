@@ -194,11 +194,6 @@ button.active {
   display: flex;
   align-items: center;
 
-  opacity: 0;
-}
-
-.task-item:hover .task-menu-btn {
-  opacity: 1;
 }
 
 .task-menu-btn img {
@@ -220,8 +215,6 @@ button.active {
   border-radius: 8px;
 
   box-shadow: 0 5px 15px rgba(0,0,0,0.2);
-
-
 
   transform: translateY(-5px);
   opacity: 0;
@@ -273,7 +266,6 @@ button.active {
   }
 
 }
-
 
 @media (min-width: 768px) {
 
