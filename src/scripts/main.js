@@ -133,7 +133,7 @@ function renderTodos() {
       <span class="task-text">${task.text}</span>
 
       <button class="task-menu-btn">
-        <img src="../icons/dots.svg" alt="menu">
+        <img src="icons/dots.svg" alt="menu">
       </button>
 
       <div class="task-menu">
